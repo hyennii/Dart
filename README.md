@@ -3,7 +3,7 @@
 <br>
 
 ### 강의목록
-  - [`노마드코더 - Dart 시작하기`](https://nomadcoders.co/dart-for-beginners/lobby)
+  - [`노마드코더 - Dart 시작하기`](https://nomadcoders.co/dart-for-beginners/lobby)
 
 
 <br>
@@ -37,17 +37,15 @@
     <br>
     sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer 
     <br>sudo xcodebuild -runFirstLaunch
-    <br>-> Xcode를 열고, Preferences > Locations에서 Command Line Tools가 설정되어 있는지 확인 -> Xcode를 열고, iOS 시뮬레이터를 실행 :
-    <br>open -a Simulator
-    <br>-> Flutter 프로젝트를 생성 :
-    <br>flutter create my_flutter_app
-    <br>-> 생성된 프로젝트 디렉토리로 이동 :
-    <br>cd my_flutter_app
+    <br>-> Xcode를 열고, Preferences > Locations에서 Command Line Tools가 설정되어 있는지 확인
+    <br>-> Xcode를 열고, iOS 시뮬레이터를 실행 : open -a Simulator
+    <br>-> Flutter 프로젝트를 생성 : flutter create my_flutter_app
+    <br>-> 생성된 프로젝트 디렉토리로 이동 : cd my_flutter_app
     <br>-> 프로젝트를 실행 : flutter run
 
 - vscode에서 dart 작업하기
-    1) vscode -> Extensions -> Flutter 확장 설치 -> vscode 터미널에서 프로젝트 생성 :
-    <br>flutter create my_flutter_app -> cd my_flutter_app(디렉토리로 이동)
+    1) vscode -> Extensions -> Flutter 확장 설치 
+    <br>-> vscode 터미널에서 프로젝트 생성 : flutter create my_flutter_app -> cd my_flutter_app(디렉토리로 이동)
 
 
 
