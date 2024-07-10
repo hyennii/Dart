@@ -5,6 +5,8 @@
 ### 강의목록
   - [`노마드코더 - Dart 시작하기`](https://nomadcoders.co/dart-for-beginners/lobby)
 
+  - [`인프런 - Flutter 3.0 앱 개발 - 10개의 프로젝트로 오늘 초보 탈출!`](https://www.inflearn.com/course/%ED%94%8C%EB%9F%AC%ED%84%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/dashboard)
+
 
 <br>
 
