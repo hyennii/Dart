@@ -29,3 +29,6 @@ var 대신 final로 변수 선언하면 변수 수정 불가
 ```dart
 late final name;
 ```
+
+## constant
+- const : 컴파일할 때 알고 있는 값에 사용 (앱스토어에 앱을 올리기 전에 알고 있는 값)
