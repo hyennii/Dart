@@ -7,14 +7,25 @@
 - 정말 필요할 때만 쓰는게 좋음
 
 ## nullable
-1. null safety
+- null safety
 <br>
 : 개발자가 null값을 참조할 수 없도록 함
 
-2. 기본적으로 모든 변수는 non-nullable -> null도 될 수 있게 하기 위해 ? 사용
+- 기본적으로 모든 변수는 non-nullable -> null도 될 수 있게 하기 위해 ? 사용
 ```dart
 void main(){
     String? nico = 'nico';
     nico = null;
 }
+```
+
+## final
+var 대신 final로 변수 선언하면 변수 수정 불가
+
+## late
+- final이나 var 앞에 붙일 수 있음
+- 초기 데이터 없이 변수 선언 가능
+- 나중에 api에서 데이터를 받아 변수에 넣어줌
+```dart
+late final name;
 ```
